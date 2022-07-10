@@ -47,7 +47,7 @@ function App() {
     } else {
       setPlayer("X");
     }
-  }, [board]);
+  }, [board, player]);
 
   useEffect(() => {
     if (result.state !== "none") {
