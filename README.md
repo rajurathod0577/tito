@@ -1,8 +1,13 @@
+# Tito 
+### Simple Tic-Tac-Toe game using `React JS`
+
+## `Preview` : [Tito](http://tito0577.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `Preview` : [Tito](http://tito0577.netlify.app/)
 
 
 ## Available Scripts
