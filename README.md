@@ -1,5 +1,5 @@
 # Tito 
-### Simple Tic-Tac-Toe game using `React JS` with PWA Support
+### Simple Tic-Tac-Toe game using `React JS` with `PWA` Support
 
 ## `Preview` : [Tito](http://tito0577.netlify.app/)
 
